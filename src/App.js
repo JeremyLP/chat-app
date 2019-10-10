@@ -7,10 +7,10 @@ function App() {
   return (
     <div className="App">
       <ContactList
-        name="Gary Richard"
-        lastName="Georgette"
-        img="https://randomuser.me/api/portraits/men/9.jpg"
-        online={true}
+        name=""
+        lastName=""
+        img=""
+        online=""
         email=""
         birthday=""
       />
