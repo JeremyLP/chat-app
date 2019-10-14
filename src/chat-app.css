@@ -44,3 +44,11 @@
 .Contact .status .status-offline {
   background: #f4511e;
 }
+
+.datButton {
+  border: 1px solid black;
+  background-color: #999;
+  padding: 4px 4px 4px 4px;
+  border-radius: 10px;
+}
+
